@@ -1,0 +1,28 @@
+{
+  "name": "W07D02_APIs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js",
+    "dev": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abdalafo98/W07D02_APIs.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/abdalafo98/W07D02_APIs/issues"
+  },
+  "homepage": "https://github.com/abdalafo98/W07D02_APIs#readme",
+  "dependencies": {
+    "express-dependencies": "^1.2.2"
+  },
+  "devDependencies": {
+    "express": "^4.17.1"
+  }
+}
